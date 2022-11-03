@@ -1,0 +1,1 @@
+# babakaya_static
