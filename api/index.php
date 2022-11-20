@@ -8,14 +8,14 @@
     <link
       rel="stylesheet"
       id="globefarer-main-css"
-      href="assets/css/main.min.css%3Fver=6.0.3.css"
+      href="../assets/css/main.min.css%3Fver=6.0.3.css"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="globefarer-core-style-css"
-      href="assets/css/globefarer-core.min.css%3Fver=6.0.3.css"
+      href="../assets/css/globefarer-core.min.css%3Fver=6.0.3.css"
       type="text/css"
       media="all"
     />
@@ -29,7 +29,7 @@
     <link
       rel="stylesheet"
       id="globefarer-grid-css"
-      href="assets/css/grid.min.css%3Fver=6.0.3.css"
+      href="../assets/css/grid.min.css%3Fver=6.0.3.css"
       type="text/css"
       media="all"
     />
@@ -122,44 +122,44 @@
     <link
       rel="stylesheet"
       id="globefarer-core-elementor-css"
-      href="assets/css/elementor.min.css%3Fver=6.0.3.css"
+      href="../assets/css/elementor.min.css%3Fver=6.0.3.css"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="elementor-frontend-css"
-      href="assets/css/custom-frontend-lite.min.css%3Fver=1663247224.css"
+      href="../assets/css/custom-frontend-lite.min.css%3Fver=1663247224.css"
       type="text/css"
       media="all"
     />
     <link
       rel="stylesheet"
       id="elementor-post-50-css"
-      href="assets/css/post-50.css%3Fver=1663247989.css"
+      href="../assets/css/post-50.css%3Fver=1663247989.css"
       type="text/css"
       media="all"
     />
 
     <script
       type="text/javascript"
-      src="assets/js/jquery.min.js%3Fver=3.6.0"
+      src="../assets/js/jquery.min.js%3Fver=3.6.0"
       id="jquery-core-js"
     ></script>
     <script
       type="text/javascript"
-      src="assets/js/jquery-migrate.min.js%3Fver=3.3.2"
+      src="../assets/js/jquery-migrate.min.js%3Fver=3.3.2"
       id="jquery-migrate-js"
     ></script>
     <script
       type="text/javascript"
-      src="assets/js/rbtools.min.js%3Fver=6.6.5"
+      src="../assets/js/rbtools.min.js%3Fver=6.6.5"
       defer
       id="tp-tools-js"
     ></script>
     <script
       type="text/javascript"
-      src="assets/js/rs6.min.js%3Fver=6.6.5"
+      src="../assets/js/rs6.min.js%3Fver=6.6.5"
       defer
       id="revmin-js"
     ></script>
@@ -225,13 +225,13 @@
                 href="/"
                 rel="home">
                     <img
-                    src="assets/images/logo/logo-dark.svg"
+                    src="../assets/images/logo/logo-dark.svg"
                     class="qodef-header-logo-image qodef--main"
                     itemprop="image"
                     alt="logo main" />
 
                     <img
-                    src="assets/images/logo/logo.svg"
+                    src="../assets/images/logo/logo.svg"
                     class="qodef-header-logo-image qodef--light"
                     itemprop="image"
                     alt="logo light" />
@@ -398,7 +398,7 @@
                     href="/"
                     rel="home">
                         <img
-                        src="assets/images/logo/logo-dark.svg"
+                        src="../assets/images/logo/logo-dark.svg"
                         width="136"
                         class="qodef-header-logo-image qodef--main"
                         itemprop="image"
@@ -464,7 +464,7 @@
                 href="/"
                 rel="home">
                     <img
-                    src="assets/images/logo/logo-dark.svg"
+                    src="../assets/images/logo/logo-dark.svg"
                     class="qodef-header-logo-image qodef--main"
                     alt="logo main"
                     itemprop="image" />
@@ -579,20 +579,20 @@
                                                                         style="position: absolute"
                                                                         data-key="rs-2"
                                                                         data-title="Slide"
-                                                                        data-thumb="assets/images/slider/slide-1-50x100.jpg"
+                                                                        data-thumb="../assets/images/slider/slide-1-50x100.jpg"
                                                                         data-anim="adpr:false;"
                                                                         data-in="o:0;"
                                                                         data-out="a:false;"
                                                                         data-p1="Service One">
                                                                             <div class="overlay"></div>
                                                                             <img
-                                                                            src="assets/images/slider/dummy.png"
+                                                                            src="../assets/images/slider/dummy.png"
                                                                             alt="m"
                                                                             title="main-home-rev-slide-1"
                                                                             width="1920"
                                                                             height="1100"
                                                                             class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                            data-lazyload="assets/images/slider/slide-1.jpg"
+                                                                            data-lazyload="../assets/images/slider/slide-1.jpg"
                                                                             data-bg="p:center bottom;"
                                                                             data-no-retina />
                                                                             <rs-layer
@@ -636,20 +636,20 @@
                                                                         style="position: absolute"
                                                                         data-key="rs-6"
                                                                         data-title="Slide"
-                                                                        data-thumb="assets/images/slider/slide-2-50x100.jpg"
+                                                                        data-thumb="../assets/images/slider/slide-2-50x100.jpg"
                                                                         data-anim="adpr:false;"
                                                                         data-in="o:0;"
                                                                         data-out="a:false;"
                                                                         data-p1="Service Two">
                                                                             <div class="overlay"></div>
                                                                             <img
-                                                                            src="assets/images/slider/dummy.png"
+                                                                            src="../assets/images/slider/dummy.png"
                                                                             alt="m"
                                                                             title="main-home-rev-slide-2"
                                                                             width="1920"
                                                                             height="1100"
                                                                             class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                            data-lazyload="assets/images/slider/slide-2.jpg"
+                                                                            data-lazyload="../assets/images/slider/slide-2.jpg"
                                                                             data-bg="p:center bottom;"
                                                                             data-no-retina/>
                                                                             <rs-layer
@@ -690,20 +690,20 @@
                                                                         style="position: absolute"
                                                                         data-key="rs-7"
                                                                         data-title="Slide"
-                                                                        data-thumb="assets/images/slider/slide-3-50x100.jpg"
+                                                                        data-thumb="../assets/images/slider/slide-3-50x100.jpg"
                                                                         data-anim="adpr:false;"
                                                                         data-in="o:0;"
                                                                         data-out="a:false;"
                                                                         data-p1="Service Three">
                                                                             <div class="overlay"></div>
                                                                             <img
-                                                                            src="assets/images/slider/dummy.png"
+                                                                            src="../assets/images/slider/dummy.png"
                                                                             alt="m"
                                                                             title="main-home-rev-slide-3"
                                                                             width="1920"
                                                                             height="1100"
                                                                             class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                            data-lazyload="assets/images/slider/slide-3.jpg"
+                                                                            data-lazyload="../assets/images/slider/slide-3.jpg"
                                                                             data-bg="p:center bottom;"
                                                                             data-no-retina />
 
@@ -743,20 +743,20 @@
                                                                         style="position: absolute"
                                                                         data-key="rs-8"
                                                                         data-title="Slide"
-                                                                        data-thumb="assets/images/slider/slide-4-50x100.jpg"
+                                                                        data-thumb="../assets/images/slider/slide-4-50x100.jpg"
                                                                         data-anim="adpr:false;"
                                                                         data-in="o:0;"
                                                                         data-out="a:false;"
                                                                         data-p1="Service Four">
                                                                             <div class="overlay"></div>
                                                                             <img
-                                                                            src="assets/images/slider/dummy.png"
+                                                                            src="../assets/images/slider/dummy.png"
                                                                             alt="m"
                                                                             title="main-home-rev-slide-4"
                                                                             width="1920"
                                                                             height="1100"
                                                                             class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                            data-lazyload="assets/images/slider/slide-4.jpg"
+                                                                            data-lazyload="../assets/images/slider/slide-4.jpg"
                                                                             data-bg="p:center bottom;"
                                                                             data-no-retina/>
                                                                             <rs-layer
@@ -811,12 +811,12 @@
                                                                         data-frame_999="o:0;st:w;"
                                                                         style="z-index: 5">
                                                                             <img
-                                                                            src="assets/images/slider/dummy.png"
+                                                                            src="../assets/images/slider/dummy.png"
                                                                             alt="d"
                                                                             class="tp-rs-img rs-lazyload"
                                                                             width="600"
                                                                             height="149"
-                                                                            data-lazyload="assets/images/logo/logo.svg"
+                                                                            data-lazyload="../assets/images/logo/logo.svg"
                                                                             data-no-retina />
                                                                         </rs-layer>
                                                                     </rs-static-layers>
@@ -898,13 +898,13 @@
                                                                 <img
                                                                 width="800"
                                                                 height="407"
-                                                                src="assets/images/main-home-1.jpg"
+                                                                src="../assets/images/main-home-1.jpg"
                                                                 class="attachment-full size-full"
                                                                 alt="d"
                                                                 srcset="
-                                                                assets/images/main-home-1.jpg         800w,
-                                                                assets/images/main-home-1-300x153.jpg 300w,
-                                                                assets/images/main-home-1-768x391.jpg 768w"
+                                                                ../assets/images/main-home-1.jpg         800w,
+                                                                ../assets/images/main-home-1-300x153.jpg 300w,
+                                                                ../assets/images/main-home-1-768x391.jpg 768w"
                                                                 sizes="(max-width: 800px) 100vw, 800px" />
                                                             </div>
                                                         </div>
@@ -934,7 +934,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--93b2e5e">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-1.png" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-1.png 800w, assets/images/main-home-tabbed-info-1-300x159.png 300w, assets/images/main-home-tabbed-info-1-768x408.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-1.png" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-1.png 800w, ../assets/images/main-home-tabbed-info-1-300x159.png 300w, ../assets/images/main-home-tabbed-info-1-768x408.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
 
@@ -959,7 +959,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--88e6bad">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-2.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-2.jpg 800w, assets/images/main-home-tabbed-info-2-300x159.jpg 300w, assets/images/main-home-tabbed-info-2-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-2.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-2.jpg 800w, ../assets/images/main-home-tabbed-info-2-300x159.jpg 300w, ../assets/images/main-home-tabbed-info-2-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                                 <div class="qodef-m-content-right">
@@ -983,7 +983,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--08887a2">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-3.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-3.jpg 800w, assets/images/main-home-tabbed-info-3-300x159.jpg 300w, assets/images/main-home-tabbed-info-3-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-3.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-3.jpg 800w, ../assets/images/main-home-tabbed-info-3-300x159.jpg 300w, ../assets/images/main-home-tabbed-info-3-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                                 <div class="qodef-m-content-right">
@@ -1008,7 +1008,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--89ebe54">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-4.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-4.jpg 800w, assets/images/main-home-tabbed-info-4-300x159.jpg 300w, assets/images/main-home-tabbed-info-4-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-4.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-4.jpg 800w, ../assets/images/main-home-tabbed-info-4-300x159.jpg 300w, ../assets/images/main-home-tabbed-info-4-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                                 <div class="qodef-m-content-right">
@@ -1032,7 +1032,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--ecdb426">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-5.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-5.jpg 800w, assets/images/main-home-tabbed-info-5-300x159.jpg 300w, assets/images/main-home-tabbed-info-5-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-5.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-5.jpg 800w, ../assets/images/main-home-tabbed-info-5-300x159.jpg 300w, ../assets/images/main-home-tabbed-info-5-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                                 <div class="qodef-m-content-right">
@@ -1056,7 +1056,7 @@
                                                             <div class="qodef-m-content" id="qodef-tab--0567851">
                                                                 <div class="qodef-m-content-left">
                                                                     <div class="qodef-m-image">
-                                                                        <img width="800" height="425" src="assets/images/main-home-tabbed-info-6.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="assets/images/main-home-tabbed-info-6.jpg 800w, assets/images/main-home-tabbed-info-6-300x159.jpg 300w, assets/images/main-home-tabbed-info-6-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="425" src="../assets/images/main-home-tabbed-info-6.jpg" class="attachment-full size-full" alt="m" decoding="async" srcset="../assets/images/main-home-tabbed-info-6.jpg 800w, ../assets/images/main-home-tabbed-info-6-300x159.jpg 300w, ../assets/images/main-home-tabbed-info-6-768x408.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                                 <div class="qodef-m-content-right">
@@ -1149,12 +1149,12 @@
                                           <img
                                             width="150"
                                             height="150"
-                                            src="assets/images/testimonial/main-home-testimonial-150x150.png"
+                                            src="../assets/images/testimonial/main-home-testimonial-150x150.png"
                                             class="attachment-thumbnail size-thumbnail wp-post-image"
                                             alt="d"
                                             srcset="
-                                              assets/images/testimonial/main-home-testimonial-150x150.png 150w,
-                                              assets/images/testimonial/main-home-testimonial.png         156w
+                                              ../assets/images/testimonial/main-home-testimonial-150x150.png 150w,
+                                              ../assets/images/testimonial/main-home-testimonial.png         156w
                                             "
                                             sizes="(max-width: 150px) 100vw, 150px"
                                           />
@@ -1210,7 +1210,7 @@
                                   <img
                                     width="45"
                                     height="34"
-                                    src="assets/images/icon/landing-icon-3.png"
+                                    src="../assets/images/icon/landing-icon-3.png"
                                     class="attachment-full size-full"
                                     alt="d"
                                   />
@@ -1257,7 +1257,7 @@
                                   <img
                                     width="45"
                                     height="34"
-                                    src="assets/images/icon/landing-icon-4.png"
+                                    src="../assets/images/icon/landing-icon-4.png"
                                     class="attachment-full size-full"
                                     alt="d"
                                   />
@@ -1304,7 +1304,7 @@
                                   <img
                                     width="45"
                                     height="34"
-                                    src="assets/images/icon/landing-icon-1.png"
+                                    src="../assets/images/icon/landing-icon-1.png"
                                     class="attachment-full size-full"
                                     alt="d"
                                   />
@@ -1351,7 +1351,7 @@
                                   <img
                                     width="45"
                                     height="34"
-                                    src="assets/images/icon/landing-icon-2.png"
+                                    src="../assets/images/icon/landing-icon-2.png"
                                     class="attachment-full size-full"
                                     alt="d"
                                   />
@@ -1464,11 +1464,11 @@
                                   <img
                                     width="800"
                                     height="408"
-                                    src="assets/images/main-home-2.jpg"
+                                    src="../assets/images/main-home-2.jpg"
                                     class="attachment-full size-full"
                                     alt="d"
                                     srcset="
-                                      assets/images/main-home-2.jpg         800w,
+                                      ../assets/images/main-home-2.jpg         800w,
                                     "
                                     sizes="(max-width: 800px) 100vw, 800px"
                                   />
@@ -1576,4 +1576,4 @@
           </main>
         </div>
       </div>
-      <?php include __DIR__ . '/footer.php';
+      <?php include __DIR__ . '/../footer.php';
